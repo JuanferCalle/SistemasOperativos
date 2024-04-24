@@ -1,7 +1,10 @@
 # SistemasOperativos
 Afianzar conocimientos de Docher
+
 Camilo Andres Muñoz Muñoz código 2042857
+
 Juan Fernando Calle Sanchez 2127464
+
 William David Hernández solarte 202228934
 
 Pasos para la Tarea del Sistema Operativo:
